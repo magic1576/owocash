@@ -1,0 +1,26 @@
+Merhaba hayırlı olsun öncelikle botunuz.
+
+node js kurmamız gerekiyor ilk önce botumuzu çalıştırabilmek için linkten indirebilirsiniz kurulum için youtubeden node js nasıl kurulur adlı videolardan ögrenebilirsiniz.
+
+https://nodejs.org/en/
+
+node js kurulduktan sonra
+
+botumuzu rardan çıkarıyoruz ardından
+
+databases klasorune giriyoruz
+
+visual studio ile açıyoruz ( visual studio code google den indirebilirsiniz kurulumu youtubede var)
+
+ardından yukarda token ve idleri girip
+
+save alıp botumuzu başlatıyoruz
+
+
+ayarladıgımız idler sayesinde botu yönetebilecegiz artık
+
+!yardım ile komutlara bakabilirsiniz
+
+botu ayarladıgınız kanal dışında aktif duruma ya da pasif hale getiremezsiniz
+
+bu metinden hiç bir şey anlamadım diyorsanız itemsatis üzerinden mesaj atabilirsiniz.
